@@ -1,2 +1,1 @@
-# PrepCourse-Henry2-
-Este es un repositorio del Modulo 2 
+Este proyecto es una prueba para copiar los archivos al escritorio local desde github
